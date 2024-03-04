@@ -1,0 +1,41 @@
+
+
+.logos img {
+    width: 120px; 
+    height: auto; 
+  }
+
+  .react{
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+  }
+
+  .js{
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+  }
+
+  .node{
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+  }
+
+  .mongo{
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+  }
+
+.p{
+    color: black;
+    margin: 0;
+}
+
+
+
+  
+
+  

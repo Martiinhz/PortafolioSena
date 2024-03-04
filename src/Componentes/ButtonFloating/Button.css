@@ -1,0 +1,18 @@
+.button{
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    background-color: #0026ff;
+    bottom: 40px;
+    right: 40px;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    z-index: 999;
+    border: solid 0.1px rgb(150, 148, 148);
+}
+.IconWats{
+    font-size: 60px;
+    
+    
+}
