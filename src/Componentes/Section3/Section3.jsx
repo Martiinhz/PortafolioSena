@@ -21,10 +21,10 @@ export const Section3 = () => {
         {
           cuadros.map((card, idx) => <Card2
             key={card.title + idx}
-            title={card.title}
-            title2={card.title}
-            title3={card.title}
-            title4={card.title}
+            name={card.name}
+            position={card.position}
+            phone={card.phone}
+            email={card.email}
           />)
         }
       </div>

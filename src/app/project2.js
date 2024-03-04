@@ -2,22 +2,22 @@
 
 export const cuadros = [
     {
-        title: "Nombre",
-        title: "Cargo",
-        title: "Telefono",
-        title: "Correo Electronico",
+        name: "Martin",
+        position: "Desarrolador",
+        phone: "3023339363",
+        email: "once11caldas.martin@gmail.com",
     },
     {
-        title: "Nombre",
-        title: "Cargo",
-        title: "Telefono",
-        title: "Correo Electronico",
+        name: "Martin",
+        position: "Desarrolador",
+        phone: "3023339363",
+        email: "once11caldas.martin@gmail.com",
     },
     {
-        title: "Nombre",
-        title: "Cargo",
-        title: "Telefono",
-        title: "Correo Electronico",
+        name: "Martin",
+        position: "Desarrolador",
+        phone: "3023339363",
+        email: "once11caldas.martin@gmail.com",
     },
 
 ];
